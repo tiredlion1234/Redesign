@@ -1,0 +1,73 @@
+html {
+  background-color: rgb(124, 201, 226);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+
+ #title{
+  max-width: 100%;
+ 
+  justify-content: center;
+  object-fit: cover;
+ }
+
+ .button {
+  background-color: #FFFFFF; /* Green */
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3.5vmin;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+  
+}
+
+.button:hover {
+  background-color:#FAFF00;
+  
+}
+.button:active {
+  background-color: #45FA05;
+}
+
+.button1{
+  background-color: #2877ED;
+}
+
+#buttoncontainer{
+  justify-content: center;
+  max-width: 100%;
+}
+
+#text{
+  font-size: 3vmin;
+  
+}
+
+
+
+
+ 
+ img{
+  max-width: 600px;
+  max-height: 29vh;
+
+   
+   justify-content: space-around;
+   object-fit: cover;
+   
+
+  flex-wrap: wrap;
+ }
+ 
+ 
+ 
+
+
+
+
